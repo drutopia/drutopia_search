@@ -1,0 +1,12 @@
+{
+  "name": "drupal/drutopia_search",
+  "description": "Drutopia Search provides a search server, index, and view.",
+  "type": "drupal-module",
+  "license": "GPL-2.0+",
+  "homepage": "https://gitlab.com/drutopia/drutopia_search",
+  "minimum-stability": "dev",
+  "require": {
+    "drupal/block_visibility_groups": "^1.1",
+    "drupal/search_api": "^1.2"
+  }
+}
