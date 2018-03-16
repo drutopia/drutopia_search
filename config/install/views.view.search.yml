@@ -75,10 +75,9 @@ display:
               blog: teaser
               campaign: teaser
               event: teaser
-              landing_page: teaser
               page: teaser
               people: teaser
-              sandwich: teaser
+              resource: teaser
       fields:
         title:
           table: search_api_index_content
