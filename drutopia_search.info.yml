@@ -1,5 +1,5 @@
 name: 'Drutopia Search'
-description: 'Provides a search server, index, and view.'
+description: 'Provides a search index and view.'
 type: module
 core: 8.x
 package: Drutopia
