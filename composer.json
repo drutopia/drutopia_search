@@ -7,13 +7,6 @@
   "minimum-stability": "dev",
   "require": {
     "drupal/block_visibility_groups": "^1.1",
-    "drupal/search_api": "^1.2"
-  },
-  "extra": {
-    "patches": {
-      "drupal/search_api": {
-        "Notice: Undefined index: total When we enable the module in the installation step": "https://www.drupal.org/files/issues/2931562-13--undefined_total_in_task_manager_batch_finish.patch"
-      }
-    }
+    "drupal/drutopia_core": "^1.0-alpha4"
   }
 }
